@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sachith Nimendra</h1>
+<h1 align="center">Hi 👋, I'm Sachith Wasala</h1>
+<h1 align="center">Hi 👋, IT22576866</h1>
 <h3 align="center">I'm a tech enthusiast. A passionate developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachithnim&label=Profile%20views&color=0e75b6&style=flat" alt="sachithnim"/> </p>
