@@ -23,6 +23,9 @@
   <a href="mailto:sachith.nwasala@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
+  <a href="https://buymeacoffee.com/">
+    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="buy me a coffee logo" />
+  </a>
 </div>
 
 ###
@@ -40,26 +43,10 @@
 ###
 
 <p align="left">
-I'm a Software Engineering graduate from <b>SLIIT</b> with <b>2+ years</b> of professional experience in full-stack software development, based in Padukka, Sri Lanka.
+I'm a Software Engineering graduate from <b>SLIIT</b> with <b>2+ years</b> of professional experience in full-stack software development, based in Sri Lanka.
 I build scalable applications with <b>Java, Spring Boot, React, Next.js, TypeScript, Laravel</b> and RESTful APIs, and I'm experienced in Agile development, database integration, testing, automation and production deployment.
 Right now I'm especially interested in scalable software solutions and <b>AI/ML-powered applications</b> — computer vision, LLMs and RAG.
 </p>
-
-- 💼 **Trainee Software Engineer** @ **Axonect (Axiata Digital Labs)** — Next.js, React, TypeScript, Laravel, Spring Boot
-- 🎓 **BSc (Hons) in IT – Software Engineering**, Sri Lanka Institute of Information Technology (SLIIT)
-- 🤖 Currently exploring LLMs, RAG pipelines, vector databases and microservices on the cloud
-- 🏅 AWS SimuLearn: AI Practitioner Training Badge
-- 🌐 More about me: [sachithwasala.me](https://sachithwasala.me)
-
-###
-
-<h3 align="left">Experience</h3>
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Trainee Software Engineer | Axonect (Axiata Digital Labs) | Aug 2025 – Aug 2026 |
-| Software Engineer Intern | Apps Technologies Pvt Ltd | Dec 2024 – Aug 2025 |
-| Junior Web Developer | Mavas Digital | Dec 2023 – Dec 2024 |
 
 ###
 
@@ -149,7 +136,10 @@ Right now I'm especially interested in scalable software solutions and <b>AI/ML-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai logo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.75.0/dark/openai.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.75.0/light/openai.png" height="40" alt="openai logo" />
+  </picture>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain logo" />
   <img width="12" />
@@ -196,6 +186,24 @@ Right now I'm especially interested in scalable software solutions and <b>AI/ML-
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+</div>
+
+###
+
+<h3 align="center">Badges</h3>
+
+###
+
+<div align="center">
+  <img src="assets/badges.png" width="100%" alt="Hacktoberfest and contributor badges" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://buymeacoffee.com/">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="45" alt="Buy me a coffee" />
+  </a>
 </div>
 
 ###
