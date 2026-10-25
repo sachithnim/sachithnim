@@ -23,9 +23,6 @@
   <a href="mailto:sachith.nwasala@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
-  <a href="https://buymeacoffee.com/">
-    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="buy me a coffee logo" />
-  </a>
 </div>
 
 ###
@@ -59,6 +56,11 @@ Right now I'm especially interested in scalable software solutions and <b>AI/ML-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachithnim&theme=dark&hide_border=true" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sachithnim/sachithnim/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/sachithnim/sachithnim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
 </div>
 
 ###
@@ -201,8 +203,8 @@ Right now I'm especially interested in scalable software solutions and <b>AI/ML-
 ###
 
 <div align="center">
-  <a href="https://buymeacoffee.com/">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="45" alt="Buy me a coffee" />
+  <a href="https://buymeacoffee.com/sachithwasala">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=sachithwasala&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="45" alt="Buy me a coffee" />
   </a>
 </div>
 
