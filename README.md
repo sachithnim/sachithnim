@@ -192,10 +192,6 @@ Right now I'm especially interested in scalable software solutions and <b>AI/ML-
 
 ###
 
-<h3 align="center">Badges</h3>
-
-###
-
 <div align="center">
   <img src="assets/badges.png" width="100%" alt="Hacktoberfest and contributor badges" />
 </div>
