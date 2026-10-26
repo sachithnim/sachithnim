@@ -192,9 +192,7 @@ Right now I'm especially interested in scalable software solutions and <b>AI/ML-
 
 ###
 
-<div align="center">
-  <img src="assets/badges.png" width="100%" alt="Hacktoberfest and contributor badges" />
-</div>
+[![An image of @sachithnim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachithnim)](https://holopin.io/@sachithnim)
 
 ###
 
